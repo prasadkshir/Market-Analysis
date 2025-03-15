@@ -24,5 +24,5 @@ This project analyzes **customer purchasing behavior** and **product performance
 ## 📬 Contact Me  
 📧 **Email:** kshirsagarprasad92@gmail.com  
 🔗 **LinkedIn:** [Profile](https://www.linkedin.com/in/kshirsagarprasad92)  
-🔗 **GitHub Repository:** [Market Analysis](https://github.com/prasadKshir/Market_Analysis)  
+🔗 **GitHub Repository:** [Market Analysis](https://github.com/prasadkshir/Market_Analysis)  
  
